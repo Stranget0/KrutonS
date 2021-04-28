@@ -1,5 +1,5 @@
 <!--<h1 align="center" style="color:'orange;'">Hello, Strange here!</h1>-->
-<img align="center" src="welcome.svg" width="300px" alt="Hello, Strange here!"/>
+<div align="center"><img align="center" src="welcome.svg" width="300px" alt="Hello, Strange here!"/></div>
 
 ---
 
