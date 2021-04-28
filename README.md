@@ -5,6 +5,7 @@
 
 
 <div align="right">
+  <img src="fox.svg" width="100px"/>
   <kbd>
   <h1 align="center">Roadmap</h1>
   <h3 align="center">
