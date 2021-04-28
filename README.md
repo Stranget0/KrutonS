@@ -5,7 +5,6 @@
 
 
 <div align="right">
-  <img src="fox.svg" width="100px"/>
   <kbd>
   <h1 align="center">Roadmap</h1>
   <h3 align="center">
@@ -19,7 +18,9 @@
     <br>&#8595;<br>
     Gatsby
     <br>&#8595;<br>
-    GSAP
+    GSAP<br>
+    
+  <img src="fox.svg" width="100px"/>
   </h3>
   </kbd>
 </div>
