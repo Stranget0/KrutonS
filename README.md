@@ -9,13 +9,13 @@
       <img width="100px" src="./react.svg"/>
       <img width="100px" src="./api.svg"/>
       <img width="100px" src="./ts.svg"/>
-      <img width="100px" src="./figma.svg"/>
-      <img width="100px" src="./blender.svg"/>
+      <img height="100px" src="./figma.svg"/>
+      <img height="60px" src="./blender.svg"/>
     </p>
     <p align="center">
-      <img width="100px" src="./bem.svg"/>
-      <img width="100px" src="./rwd.svg"/>
-      <img width="100px" src="./mobile first.svg"/>
+      <img height="40px" src="./bem.svg"/>
+      <img height="40px" src="./rwd.svg"/>
+      <img height="40px" src="./mobile first.svg"/>
     </p>
   </kbd></code>
 </div>
