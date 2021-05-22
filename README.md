@@ -12,6 +12,7 @@
       <img height="100px" src="./figma.svg"/>
       <img height="60px" src="./blender.svg"/>
     </p>
+    <hr>
     <p align="center">
       <img height="40px" src="./bem.svg"/>
       <img height="40px" src="./rwd.svg"/>
