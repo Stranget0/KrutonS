@@ -8,15 +8,23 @@
       <img width="100px" src="./js.svg"/>
       <img width="100px" src="./react.svg"/>
       <img width="100px" src="./api.svg"/>
-      <img width="100px" src="./ts.svg"/>
-      <img height="100px" src="./figma.svg"/>
       <img height="60px" src="./blender.svg"/>
     </p>
-    <hr>
+    <p>-</p>
     <p align="center">
       <img height="40px" src="./bem.svg"/>
       <img height="40px" src="./rwd.svg"/>
       <img height="40px" src="./mobile first.svg"/>
+    </p>
+    <hr>
+    <p>
+    <h3>learning</h3>
+      <img width="100px" src="./ts.svg"/>
+    </p>
+    <p>
+    <h3>to learn</h3>
+      <img height="100px" src="./figma.svg"/>
+      <img height="100px" src="./gsap.png"/>
     </p>
   </kbd></code>
 </div>
