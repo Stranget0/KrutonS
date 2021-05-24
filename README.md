@@ -4,14 +4,14 @@
 <div align="center">
   <code><kbd>
     <p align="center">
-      <img width="100px" src="./html.svg"/>
-      <img width="100px" src="./css.svg"/>
-      <img width="100px" src="./js.svg"/>
-      <img width="100px" src="./react.svg"/>
-      <img width="100px" src="./api.svg"/>
-      <img width="100px" src="./npm.svg"/>
-      <img width="100px" src="./github.png"/>
-      <img height="60px" src="./blender.svg"/>
+      <img width="100px" title="html" alt="html" src="./html.svg"/>
+      <img width="100px" title="css" alt="css" src="./css.svg"/>
+      <img width="100px" title="javascript" alt="javascript" src="./js.svg"/>
+      <img width="100px" title="react" alt="react" src="./react.svg"/>
+      <img width="100px" title="REST API" alt="REST API" src="./api.svg"/>
+      <img width="100px" title="npm" alt="npm" src="./npm.svg"/>
+      <img width="100px" title="github" alt="github" src="./github.png"/>
+      <img height="60px" title="blender" alt="blender" src="./blender.svg"/>
     </p>
     <p>-</p>
     <p align="center">
@@ -21,7 +21,7 @@
     </p>
     <p>
     <h2>learning</h2>
-      <img width="100px" src="./ts.svg"/>
+      <img width="100px" alt="TypeScript" title="TypeScript" src="./ts.svg"/>
     </p>
     <p>
     <h3>to learn</h3>
