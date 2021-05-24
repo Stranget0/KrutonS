@@ -24,7 +24,8 @@
     <p>
     <h3>to learn</h3>
       <img height="100px" src="./figma.svg"/>
-      <img height="100px" src="./gsap.png"/>
+      <img height="80px" src="./gsap.png"/>
+      <img height="80px" src="./gatsby.svg"/>
     </p>
   </kbd></code>
 </div>
