@@ -16,16 +16,16 @@
       <img height="40px" src="./rwd.svg"/>
       <img height="40px" src="./mobile first.svg"/>
     </p>
-    <hr>
     <p>
-    <h3>learning</h3>
+    <h2>learning</h2>
       <img width="100px" src="./ts.svg"/>
     </p>
     <p>
     <h3>to learn</h3>
-      <img height="100px" src="./figma.svg"/>
-      <img height="80px" src="./gsap.png"/>
-      <img height="80px" src="./gatsby.svg"/>
+      <kbd>Figma </kbd>
+      <kbd>GSAP </kbd>
+      <kbd>Gatsby </kbd>
+      <kbd>Styled Components </kbd>
     </p>
   </kbd></code>
 </div>
