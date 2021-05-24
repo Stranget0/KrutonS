@@ -9,6 +9,8 @@
       <img width="100px" src="./js.svg"/>
       <img width="100px" src="./react.svg"/>
       <img width="100px" src="./api.svg"/>
+      <img width="100px" src="./npm.svg"/>
+      <img width="100px" src="./github.png"/>
       <img height="60px" src="./blender.svg"/>
     </p>
     <p>-</p>
