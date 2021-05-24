@@ -1,4 +1,4 @@
-<h3 align="right"><a href="https://krutons.github.io/">Portfolio</a></h3>
+[comment]: <> (<h3 align="right"><a href="https://krutons.github.io/">Portfolio</a></h3>)
 <h1 align="center"><code>Tech stack</code></h1>
 <hr>
 <div align="center">
@@ -32,3 +32,22 @@
 </div>
 <p></p>
 <div align="center"><img src="./fox.svg"/></div>
+
+## Ongoing projects 
+#### `Bez Liku` <sup><sub>React, TypeScript, Commerce.js</sub></sup>
+<div align="right">
+  <a href="https://krutons.github.io/bez-liku/"><code>Live</code></a>
+  <a href="https://github.com/KrutonS/bez-liku"><code>GitHub</code></a>
+</div>
+
+## Finished exercises
+#### `Manage Landing Page` <sup><sub>React</sub></sup>
+<div align="right">
+  <a href="https://krutons.github.io/manage-landing-page/"><code>Live</code></a>
+  <a href="https://github.com/KrutonS/manage-landing-page"><code>GitHub</code></a>
+</div>
+
+#### `Fylo Data Storage` <sup><sub>HTML, CSS</sub></sup>
+<div align="right">
+  <a href="https://github.com/KrutonS/Fylo-data-storage"><code>GitHub</code></a>
+</div>
