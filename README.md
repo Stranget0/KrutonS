@@ -29,6 +29,7 @@
       <kbd>GSAP </kbd>
       <kbd>Gatsby </kbd>
       <kbd>Styled Components </kbd>
+      <kbd>Redux</kbd>
     </p>
   </kbd></code>
 </div>
