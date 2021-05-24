@@ -1,5 +1,5 @@
-<h1 align="right"><a href="https://krutons.github.io/">Portfolio</a></h1>
-<h1 align="center">Tech stack</h1>
+<h3 align="right"><a href="https://krutons.github.io/">Portfolio</a></h3>
+<h1 align="center"><code>Tech stack</code></h1>
 <hr>
 <div align="center">
   <code><kbd>
