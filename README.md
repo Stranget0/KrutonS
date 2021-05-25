@@ -41,7 +41,7 @@
 <div align="right">
   <a href="https://krutons.github.io/bez-liku/"><code>Live</code></a>
   <a href="https://github.com/KrutonS/bez-liku"><code>GitHub</code></a>
-  <a href="https://www.figma.com/file/OnaS8fr79827wDCRx1Szkc/Bez-Liku?node-id=0%3A1"><code>Figma</code></a>
+  <a href="https://www.figma.com/file/OnaS8fr79827wDCRx1Szkc/Bez-Liku?node-id=0%3A1"><code>design</code></a>
 </div>
 
 ## Finished exercises
