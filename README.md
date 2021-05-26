@@ -3,6 +3,7 @@
 <hr>
 <div align="center">
   <code><kbd>
+    <p></p>
     <p align="center">
       <img width="100px" title="html" alt="html" src="./html.svg"/>
       <img width="100px" title="css" alt="css" src="./css.svg"/>
@@ -16,8 +17,8 @@
     <p>-</p>
     <p align="center">
       <img height="40px" src="./bem.svg"/>
-      <img height="40px" src="./rwd.svg"/>
-      <img height="40px" src="./mobile first.svg"/>
+      <img height="40px" src="./rwd.svg" title="responsive web design"/>
+      <img height="40px" src="./mobile first.svg" title="mobile first"/>
     </p>
     <p>
     <h2>learning</h2>
