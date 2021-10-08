@@ -38,7 +38,7 @@
 <div align="center"><img src="./fox.svg"/></div>
 
 ## Ongoing projects 
-#### Bez Liku <img width="20" src="react.svg"/><img width="20" src="ts.svg"/><sup><sub>Commerce.js</sub></sup>
+#### Bez Liku e-commerce store<img width="20" src="react.svg"/><img width="20" src="ts.svg"/><sup><sub>Commerce.js</sub></sup>
 <div align="right">
   <a href="https://krutons.github.io/bez-liku/"><code>Live</code></a>
   <a href="https://github.com/KrutonS/bez-liku"><code>GitHub</code></a>
