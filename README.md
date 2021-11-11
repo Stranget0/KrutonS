@@ -13,6 +13,8 @@
       <img width="100px" title="npm" alt="npm" src="./npm.svg"/>
       <img width="100px" title="github" alt="github" src="./github.png"/>
       <img height="60px" title="blender" alt="blender" src="./blender.svg"/>
+      <img width="100px" alt="TypeScript" title="TypeScript" src="./ts.svg"/>
+      <img width="100px" alt="Redux" title="Redux" src="./redux.svg"/>
     </p>
     <p>-</p>
     <p align="center">
@@ -20,16 +22,10 @@
       <img height="40px" src="./rwd.svg" title="responsive web design"/>
       <img height="40px" src="./mobile first.svg" title="mobile first"/>
     </p>
-    <p>
-    <h2>learning</h2>
-      <img width="100px" alt="TypeScript" title="TypeScript" src="./ts.svg"/>
-    </p>
-    <p>
     <h3>to learn</h3>
       <kbd>Figma </kbd>
       <kbd>GSAP </kbd>
       <kbd>Gatsby </kbd>
-      <kbd>Styled Components </kbd>
       <kbd>Redux</kbd>
     </p>
   </kbd></code>
