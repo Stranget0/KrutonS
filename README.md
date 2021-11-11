@@ -26,6 +26,7 @@
     <h3>to learn</h3>
       <kbd>GSAP</kbd>
       <kbd>SEO</kbd>
+      <kbd>DatoCMS</kbd>
     </p>
   </kbd></code>
 </div>
