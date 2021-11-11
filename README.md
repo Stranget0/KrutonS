@@ -15,6 +15,7 @@
       <img height="60px" title="blender" alt="blender" src="./blender.svg"/>
       <img width="100px" alt="TypeScript" title="TypeScript" src="./ts.svg"/>
       <img width="100px" alt="Redux" title="Redux" src="./redux.svg"/>
+      <img width="100px" alt="Gatsby" title="Gatsby" src="./gatsby.svg"/>
     </p>
     <p>-</p>
     <p align="center">
@@ -23,10 +24,8 @@
       <img height="40px" src="./mobile first.svg" title="mobile first"/>
     </p>
     <h3>to learn</h3>
-      <kbd>Figma </kbd>
-      <kbd>GSAP </kbd>
-      <kbd>Gatsby </kbd>
-      <kbd>Redux</kbd>
+      <kbd>GSAP</kbd>
+      <kbd>SEO</kbd>
     </p>
   </kbd></code>
 </div>
