@@ -1,4 +1,5 @@
 [comment]: <> (<h3 align="right"><a href="https://krutons.github.io/">Portfolio</a></h3>)
+<div align="center"><img src="./logo.svg"/></div>
 <h1 align="center"><code>Tech stack</code></h1>
 <hr>
 <div align="center">
@@ -32,7 +33,6 @@
   </code>
 </div>
 <p></p>
-<div align="center"><img src="./fox.svg"/></div>
 
 ## Ongoing projects 
 #### Portfolio
@@ -44,13 +44,13 @@
 </div>
 
 ## Finished exercises
-#### Manage Landing Page <img width="20" src="react.svg"/>
+#### Manage Landing Page
 <div align="right">
   <a href="https://krutons.github.io/manage-landing-page/"><code>Live</code></a>
   <a href="https://github.com/KrutonS/manage-landing-page"><code>GitHub</code></a>
 </div>
 
-#### Fylo Data Storage <img width="20" src="html.svg"/><img width="20" src="css.svg"/>
+#### Fylo Data Storage
 <div align="right">
   <a href="https://krutons.github.io/fylo-data-storage/"><code>Live</code></a>
   <a href="https://github.com/KrutonS/Fylo-data-storage"><code>GitHub</code></a>
