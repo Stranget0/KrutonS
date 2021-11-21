@@ -38,8 +38,6 @@
 #### Portfolio
 
 <div align="right">
-  [comment]: <a href=""><code>Live</code></a>
-  [comment]: <a href=""><code>GitHub</code></a>
   <a href="https://www.figma.com/file/ydz5NeuwCxuROtWfXXkBcV/Portfolio"><code>design</code></a>
 </div>
 
