@@ -2,43 +2,45 @@
 <h1 align="center"><code>Tech stack</code></h1>
 <hr>
 <div align="center">
-  <code><kbd>
-    <p></p>
-    <p align="center">
-      <img width="100px" title="html" alt="html" src="./html.svg"/>
-      <img width="100px" title="css" alt="css" src="./css.svg"/>
-      <img width="100px" title="javascript" alt="javascript" src="./js.svg"/>
-      <img width="100px" title="react" alt="react" src="./react.svg"/>
-      <img width="100px" title="REST API" alt="REST API" src="./api.svg"/>
-      <img width="100px" title="npm" alt="npm" src="./npm.svg"/>
-      <img width="100px" title="github" alt="github" src="./github.png"/>
-      <img height="60px" title="blender" alt="blender" src="./blender.svg"/>
-      <img width="100px" alt="TypeScript" title="TypeScript" src="./ts.svg"/>
-      <img width="100px" alt="Redux" title="Redux" src="./redux.svg"/>
-      <img width="100px" alt="Gatsby" title="Gatsby" src="./gatsby.svg"/>
-    </p>
-    <p>-</p>
-    <p align="center">
-      <img height="40px" src="./bem.svg"/>
-      <img height="40px" src="./rwd.svg" title="responsive web design"/>
-      <img height="40px" src="./mobile first.svg" title="mobile first"/>
-    </p>
-    <h3>to learn</h3>
-      <kbd>GSAP</kbd>
-      <kbd>SEO</kbd>
-      <kbd>DatoCMS</kbd>
-    </p>
-  </kbd></code>
+  <code>
+      <kbd>
+        <code>
+          <kbd><h3>HTML</h3></kbd>
+          <kbd><h3>CSS</h3></kbd>
+          <kbd><h3>JavaScript</h3></kbd>
+          <kbd><h3>TypeScript</h3></kbd>
+          <kbd><h3>React</h3></kbd>
+          <kbd><h3>REST</h3></kbd>
+          <kbd><h3>NPM</h3></kbd>
+          <kbd><h3>Git</h3></kbd>
+          <kbd><h3>Redux</h3></kbd>
+          <kbd><h3>Gatsby</h3></kbd>
+          <kbd><h3>Blender</h3></kbd>
+        </code>
+      <p>-</p>
+      <p align="center">
+        <kbd>BEM</kbd>
+        <kbd>Responsive Web Design</kbd>
+        <kbd>Mobile First</kbd>
+      </p>
+      <h3>to learn</h3>
+        <kbd>GSAP</kbd>
+        <kbd>SEO</kbd>
+        <kbd>DatoCMS</kbd>
+      </p>
+    </kbd>
+  </code>
 </div>
 <p></p>
 <div align="center"><img src="./fox.svg"/></div>
 
 ## Ongoing projects 
-#### Bez Liku e-commerce store<img width="20" src="react.svg"/><img width="20" src="ts.svg"/><sup><sub>Commerce.js</sub></sup>
+#### Portfolio
+
 <div align="right">
-  <a href="https://krutons.github.io/bez-liku/"><code>Live</code></a>
-  <a href="https://github.com/KrutonS/bez-liku"><code>GitHub</code></a>
-  <a href="https://www.figma.com/file/OnaS8fr79827wDCRx1Szkc/Bez-Liku?node-id=0%3A1"><code>design</code></a>
+  [comment]: <> <a href="><code>Live</code></a>
+  [comment]: <> <a href=""><code>GitHub</code></a>
+  <a href="https://www.figma.com/file/ydz5NeuwCxuROtWfXXkBcV/Portfolio"><code>design</code></a>
 </div>
 
 ## Finished exercises
