@@ -35,10 +35,10 @@
 <p></p>
 
 ## Ongoing projects 
-#### Portfolio
+#### Świadomość
 
 <div align="right">
-  <a href="https://www.figma.com/file/ydz5NeuwCxuROtWfXXkBcV/Portfolio"><code>design</code></a>
+  <a href="https://www.figma.com/file/LmrVJP9BIk12uXDqL98YHe/%C5%9AWiadomo%C5%9B%C4%87"><code>design</code></a>
 </div>
 
 ## Finished exercises
