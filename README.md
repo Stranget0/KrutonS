@@ -38,9 +38,9 @@
 #### Świadomość
 
 <div align="right">
-  <a href="https://www.figma.com/file/LmrVJP9BIk12uXDqL98YHe/%C5%9AWiadomo%C5%9B%C4%87"><code>design</code></a>
+  <a href="https://www.figma.com/file/LmrVJP9BIk12uXDqL98YHe/%C5%9AWiadomo%C5%9B%C4%87"><code>Design</code></a>
   <a href="swiadomosc.vercel.app"><code>Live</code></a>
-  <a href="https://github.com/KrutonS/swiadomosc><code>GitHub</code></a>
+  <a href="https://github.com/KrutonS/swiadomosc"><code>GitHub</code></a>
 </div>
 
 ## Finished exercises
