@@ -14,7 +14,6 @@
           <kbd><h3>NPM</h3></kbd>
           <kbd><h3>Git</h3></kbd>
           <kbd><h3>Redux</h3></kbd>
-          <kbd><h3>Gatsby</h3></kbd>
           <kbd><h3>Figma</h3></kbd>
           <kbd><h3>Blender</h3></kbd>
           <kbd><h3>Photoshop</h3></kbd>
