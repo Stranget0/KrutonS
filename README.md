@@ -7,8 +7,7 @@
       <kbd>
         <code>
           <kbd><h3>HTML</h3></kbd>
-          <kbd><h3>CSS</h3></kbd>
-          <kbd><h3>JavaScript</h3></kbd>
+          <kbd><h3>SCSS</h3></kbd>
           <kbd><h3>TypeScript</h3></kbd>
           <kbd><h3>React</h3></kbd>
           <kbd><h3>REST</h3></kbd>
@@ -16,7 +15,9 @@
           <kbd><h3>Git</h3></kbd>
           <kbd><h3>Redux</h3></kbd>
           <kbd><h3>Gatsby</h3></kbd>
+          <kbd><h3>Figma</h3></kbd>
           <kbd><h3>Blender</h3></kbd>
+          <kbd><h3>Photoshop</h3></kbd>
         </code>
       <p>-</p>
       <p align="center">
@@ -24,10 +25,8 @@
         <kbd>Responsive Web Design</kbd>
         <kbd>Mobile First</kbd>
       </p>
-      <h3>to learn</h3>
-        <kbd>GSAP</kbd>
-        <kbd>SEO</kbd>
-        <kbd>DatoCMS</kbd>
+      <h3>Things to try out</h3>
+        Immersive 3D web elements built with <code>Three.js</code>
       </p>
     </kbd>
   </code>
@@ -41,6 +40,13 @@
   <a href="https://www.figma.com/file/LmrVJP9BIk12uXDqL98YHe/%C5%9AWiadomo%C5%9B%C4%87"><code>Design</code></a>
   <a href="swiadomosc.vercel.app"><code>Live</code></a>
   <a href="https://github.com/KrutonS/swiadomosc"><code>GitHub</code></a>
+</div>
+
+## MVP Projects
+#### Grafiki
+<div align="right">
+  <a href="https://grafikimaster.gatsbyjs.io/"><code>Live</code></a>
+  <a href="https://github.com/KrutonS/grafiki"><code>GitHub</code></a>
 </div>
 
 ## Finished exercises
