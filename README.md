@@ -55,8 +55,8 @@
   <a href="https://github.com/KrutonS/manage-landing-page"><code>GitHub</code></a>
 </div>
 
-#### Fylo Data Storage
+#### Car Customizer
 <div align="right">
-  <a href="https://krutons.github.io/fylo-data-storage/"><code>Live</code></a>
-  <a href="https://github.com/KrutonS/Fylo-data-storage"><code>GitHub</code></a>
+  <a href="https://car-customizer.netlify.app/"><code>Live</code></a>
+  <a href="https://github.com/KrutonS/car-customizer"><code>GitHub</code></a>
 </div>
